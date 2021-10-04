@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignores Mac system files
+.DS_Store
+
+# ignores folder for node_modules
+node_modules
