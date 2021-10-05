@@ -105,5 +105,4 @@ typings/
 # ignores Mac system files
 .DS_Store
 
-# ignores folder for node_modules
-node_modules
+

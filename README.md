@@ -4,9 +4,9 @@
   
    ![Javascript badge](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
   ## Description 
-  This project uses javascript, node.js, and inquirer to efficiently generate a professional grade readme.
+  This project uses javascript, node.js, jest, and inquirer to efficiently generate a team profile. A Node.js command-line application that gathers employee info on a software engineering team and creates an HTML webpage that displays summaries for each person.
 
-  [Link to Demo](https://drive.google.com/file/d/1cpqH26eTFVUUy79PV7ieTkZsBCKlRQRY/view?usp=sharing)
+  [Link to Demo]()
   
 
   ## Table of Contents
@@ -18,14 +18,14 @@
   * [Questions](#questions)
   
   ## Installation 
-  This needs both node.js and inquirer. First, open the terminal and type npm init, hit enter, and then type npm install inquirer. This should create the json, node modules, and install inquirer. 
+  This needs  node.js, jest and inquirer. First, open the terminal and type npm install, hit enter to install the dependencies, and then type npm install inquirer and jest. This should create the json, node modules, and install jest and inquirer. 
   ## Usage 
-  This app creates professional-grade readmes efficiently
+  This app  generates a webpage 
   ## License 
   This project is license under MIT
   ## Contributing 
   none
   ## Tests
-  npm test
+  npm run test
   ## Questions
   If you have any questions about this project, you may contact me directly at aubentley80@gmail.com. You can also take a look at more of my projects at https://github.com/Kbentley8.
