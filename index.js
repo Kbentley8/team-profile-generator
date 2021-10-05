@@ -2,14 +2,14 @@ const inquirer = require('inquirer');
 const Employee = require('./lib/Employee');
 const Manager = require('./lib/Manager');
 const Engineer = require('./lib/Engineer');
-const intern = require('./lib/Intern');
+const Intern = require('./lib/Intern');
 const generatePage = require('./src/page-template');
 const writeFile = require('./src/generate-site')
 
 let manager = [];
-let enginner = [];
+let engineer = [];
 let intern = [];
-let emplyoeeArr = {manager, engineer, intern};
+let employeeArr = {manager, engineer, intern};
 
 function Prompt() {
     
@@ -102,6 +102,7 @@ function Prompt() {
 };
 
 
+
 Prompt()
     .then(teamData => {
         return generatePage(employeeArr)
@@ -109,6 +110,3 @@ Prompt()
     .then(pageHTML => {
         return writeFile(pageHTML)
     })
-        
-        
-        

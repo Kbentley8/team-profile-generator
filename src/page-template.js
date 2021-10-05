@@ -1,4 +1,5 @@
 const generateCards = teamData => {
+ 
     const manager = teamData.manager.map(function(job) {
         let managerHtml = `
         <div class="card" style="width: 18rem;">
