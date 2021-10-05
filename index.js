@@ -101,8 +101,9 @@ function Prompt() {
         })
 };
 
+
 Prompt()
-    .then(teamData) => {
+    .then(teamData => {
         return generatePage(employeeArr)
     })
     .then(pageHTML => {
