@@ -4,10 +4,11 @@
   
    ![Javascript badge](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
   ## Description 
-  This project uses javascript, node.js, jest, and inquirer to efficiently generate a team profile. A Node.js command-line application that gathers employee info on a software engineering team and creates an HTML webpage that displays summaries for each person.
+  This project uses javascript, node.js, jest, and inquirer to efficiently generate a team profile. A Node.js command-line application that gathers employee info on a software engineering team and creates an HTML webpage that showcases pertinent information for each team member.
 
   [Link to Testing Video](https://drive.google.com/file/d/1LKbs9e2tVYxcItAkYKzyCxNc6Z_ecuyt/view?usp=sharing)
-  [Link to Demo Video](https://drive.google.com/file/d/1LKbs9e2tVYxcItAkYKzyCxNc6Z_ecuyt/view?usp=sharing)
+
+  [Link to Demo Video](https://drive.google.com/file/d/1FDaWaUzmYaxORgChdfdcFJsd7SMN3AGD/view?usp=sharing)
   
 
   ## Table of Contents
