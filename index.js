@@ -7,7 +7,7 @@ const generatePage = require('./src/page-template');
 const writeFile = require('./src/generate-site')
 
 let manager = [];
-let engineer = [];
+let engineer= [];
 let intern = [];
 let employeeArr = {manager, engineer, intern};
 

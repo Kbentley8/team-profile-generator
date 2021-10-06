@@ -18,7 +18,7 @@
   * [Questions](#questions)
   
   ## Installation 
-  This needs  node.js, jest and inquirer. First, open the terminal and type npm install, hit enter to install the dependencies, and then type npm install inquirer and jest. This should create the json, node modules, and install jest and inquirer. 
+  This needs  node.js, jest, and inquirer. First, open the terminal and type npm install, hit enter to install the dependencies, and then type npm install inquirer and jest. This should create the json, node modules, and install jest and inquirer. 
   ## Usage 
   This app  generates a webpage 
   ## License 
