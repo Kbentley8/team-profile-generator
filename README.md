@@ -22,8 +22,7 @@
   ## Installation 
   This needs  node.js, jest, and inquirer. First, open the terminal and type npm install, hit enter to install the dependencies, and then type npm install inquirer and jest. This should create the json, node modules, and install jest and inquirer. 
   ## Usage 
-  This app  generates a webpage 
-  ## License 
+  By answering prompts given in the command line, using node index.js as the starting command, roles can be assigned and given data values such as name, email, and ID. For example, the  roles can be  Manager, Engineer, or Intern. To run the program type node index.js. The user can run npm run test to insure that things are in working order. 
   This project is license under MIT
   ## Contributing 
   none
